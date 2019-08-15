@@ -11,7 +11,7 @@ Este trabalho foi entregue como requisito parcial para a obtenção do bacharela
 - Testado apenas para redes LAN;
 - Produzido na versão 2.1.0.alpha do Godot (que pode ser encontrada em: http://fixnum.org/godot/.
   compilado: "January 2, 2017 at 16:07")
-- Trabalho de Conclusão de Curso com mais detalhes do projeto: <link colegiado>
+- Trabalho de Conclusão de Curso com mais detalhes do projeto: http://bit.ly/2KxK8mW
 
 
 ## License
